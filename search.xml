@@ -30,6 +30,19 @@
 <p>简易安装方法</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo</span><br></pre></td></tr></table></figure>
 <p>参考<a href="!https://hexo.io/zh-cn/docs/index.html">链接</a></p>
+<h4 id="创建博客"><a href="#创建博客" class="headerlink" title="创建博客"></a>创建博客</h4><p>1, 使用git下载第二个文件夹到本地文件夹,例如：file_floder</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git clone https://github.com/***</span><br></pre></td></tr></table></figure>
+<p>建议使用github <a href="!https://github.com/apps/desktop">desktop</a>,便于下载与上传文件。</p>
+<p>2，打开文件夹，在source&#x2F;post&#x2F; 里新建 new.md 文件，编辑内容即可。<br>建议使用vs code或者 notepad 打开文件夹。</p>
+<p>3，编译，预览，上传<br>在 file_floder 打开cmd或者power shell;<br>第一步：清楚历史编译</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo clean</span><br></pre></td></tr></table></figure>
+<p>第二步：编译</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo g</span><br></pre></td></tr></table></figure>
+<p>第三步：执行操作，本地浏览器打开 <a href="http://localhost:4000/">http://localhost:4000/</a> 预览 </p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure>
+<p>上传到github， 通过 <a href="https://chentianwang.github.io/">https://chentianwang.github.io/</a> 可查看博客。 </p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo d</span><br></pre></td></tr></table></figure>
+
 ]]></content>
       <categories>
         <category>Diary</category>
