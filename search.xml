@@ -19,21 +19,24 @@
 ]]></content>
   </entry>
   <entry>
-    <title>test</title>
-    <url>/2016/07/13/test/</url>
-    <content><![CDATA[<h3 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h3><p>This is my first post, how exciting!</p>
-<p>I’m sure I’ll write a lot more interesting things in the future.</p>
-<p>Oh, and here’s a great quote from this Wikipedia on<br><a href="https://en.wikipedia.org/wiki/Salted_duck_egg">salted duck eggs</a>.</p>
-<blockquote>
-<p>A salted duck egg is a Chinese preserved food product made by soaking duck<br>eggs in brine, or packing each egg in damp, salted charcoal. In Asian<br>supermarkets, these eggs are sometimes sold covered in a thick layer of salted</p>
-</blockquote>
+    <title>Start</title>
+    <url>/2024/12/13/Start/</url>
+    <content><![CDATA[<h3 id="安装软件"><a href="#安装软件" class="headerlink" title="安装软件"></a>安装软件</h3><h4 id="Install-Git"><a href="#Install-Git" class="headerlink" title="Install Git"></a>Install Git</h4><p>Windows: Download &amp; install <a href="!https://git-scm.com/downloads/win">git</a>.<br>Mac: Install it with Homebrew, MacPorts or installer.</p>
+<h4 id="安装-Node-js"><a href="#安装-Node-js" class="headerlink" title="安装 Node.js"></a>安装 Node.js</h4><p>Node.js 为大多数平台提供了官方的<a href="!https://nodejs.org/zh-cn/download/prebuilt-installer">安装程序</a>。<br>参考<a href="!https://blog.csdn.net/Nicolecocol/article/details/136788200">链接</a>。</p>
+<h4 id="安装-Hexo"><a href="#安装-Hexo" class="headerlink" title="安装 Hexo"></a>安装 Hexo</h4><p>使用 npm 安装 Hexo</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-cli -g</span><br></pre></td></tr></table></figure>
+<p>验证是否安装成功  </p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo version</span><br></pre></td></tr></table></figure>
+<p>简易安装方法</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo</span><br></pre></td></tr></table></figure>
+<p>参考<a href="!https://hexo.io/zh-cn/docs/index.html">链接</a></p>
 ]]></content>
       <categories>
         <category>Diary</category>
       </categories>
       <tags>
-        <tag>Testing</tag>
-        <tag>Another Tag</tag>
+        <tag>Test</tag>
+        <tag>使用说明</tag>
       </tags>
   </entry>
 </search>
